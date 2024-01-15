@@ -1,3 +1,7 @@
-a=5
-b=5
-print(c:=10)
+# Create a new branch
+git branch feature-branch
+
+# Switch to the new branch
+git checkout feature-branch
+# or, in newer versions of Git
+git switch feature-branch
